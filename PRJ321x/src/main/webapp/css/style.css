@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.click:hover {
+	background-color: green;
+	color: white;
+}
+.txt{
+	color:white;
+	border-radius: 16px;
+}
